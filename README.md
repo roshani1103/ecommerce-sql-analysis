@@ -67,3 +67,25 @@ This project analyzes an e-commerce database using SQL to generate business insi
 * analysis_queries.sql
 * README.md
 
+## Power BI Dashboard
+
+Built an interactive Power BI dashboard to visualize sales performance and business insights.
+
+### KPIs
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Total Products
+
+### Dashboard Features
+- Revenue Trend Analysis
+- Revenue by Category
+- Revenue by Country
+- Payment Method Breakdown
+- Orders by Status
+- Recent Orders Tracking
+
+### Dashboard Preview
+
+![E-Commerce Dashboard](E_commer_Dashboard_ss.png)
